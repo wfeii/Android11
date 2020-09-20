@@ -1,0 +1,5 @@
+include ':saf'
+include ':manageexternalstorage'
+include ':destinationapp'
+include ':SourceApp'
+rootProject.name = "Android11"
