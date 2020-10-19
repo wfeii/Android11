@@ -1,3 +1,5 @@
+include ':packagevisiblesecondapp'
+include ':packagevisibleoneapp'
 include ':saf'
 include ':manageexternalstorage'
 include ':destinationapp'
